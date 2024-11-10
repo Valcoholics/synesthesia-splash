@@ -7,8 +7,8 @@ import '@/styles/globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 const PAGE = {
-  title: 'Kismet Casa',
-  description: 'Creating Kismet ☀️',
+  title: 'Synesthesia',
+  description: 'OpenHDMI - Audiovisual Cipher',
 }
 
 export const metadata: Metadata = {
@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: PAGE.title,
     description: PAGE.description,
-    url: 'https://kismetcasa.xyz',
+    //url: 'https://kismetcasa.xyz',
     siteName: PAGE.title,
     images: [
       {
@@ -29,13 +29,6 @@ export const metadata: Metadata = {
     ],
     locale: 'en_US',
     type: 'website',
-  },
-  twitter: {
-    card: 'summary_large_image',
-    title: PAGE.title,
-    description: PAGE.description,
-    creator: '@kismetcasa',
-    images: ['https://i.imgur.com/Lmhmp3m.jpg'],
   },
 }
 

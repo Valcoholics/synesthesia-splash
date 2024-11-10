@@ -2,9 +2,9 @@ import type { MetadataRoute } from 'next'
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: 'Kismet Casa',
-    short_name: 'Kismet Casa',
-    description: 'Creating Kismet ☀️',
+    name: 'Synesthesia',
+    short_name: 'Synesthesia',
+    description: 'OpenHDMI - Audiovisual Cipher☀️',
     start_url: '/',
     display: 'standalone',
     background_color: '#ffffff',
