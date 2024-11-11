@@ -1,6 +1,6 @@
 ### Synesthesia
 
-Splash page for Synesthesia DMV -- [view the site]
+Splash page for Synesthesia DMV -- [view the site](www.syna.live)
 
 To run the app locally:
 - Install dependencies: `npm install`
