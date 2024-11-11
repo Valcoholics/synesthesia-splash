@@ -1,3 +1,3 @@
 export { Footer } from './Footer'
-export { KismetCasaVideo } from './KismetCasaVideo'
+export { GifVideo } from './GifVideo'
 export { ZoraNFTViewer } from './ZoraNFTViewer'

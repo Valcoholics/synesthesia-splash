@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     siteName: PAGE.title,
     images: [
       {
-        url: 'https://i.imgur.com/Lmhmp3m.jpg',
+        url: 'https://imgur.com/a/MvV4Rw8',
         width: 1200,
         height: 634,
         alt: 'og:image',

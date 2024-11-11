@@ -1,10 +1,10 @@
 import { Inter } from 'next/font/google'
-import { Footer } from '@/components'
+import { Footer, GifVideo } from '@/components'
 import { XIcon } from '@/assets/socialMediaIcons'
 import Image from 'next/image'
-import rainbowkit from '@/public/rainbowkit-logo.png'
-import warpcast from '@/public/warpcast-logo.png'
-import { creatorHouse2023Nfts, tokyo2024Nfts } from '@/utils/nfts'
+//import rainbowkit from '@/public/rainbowkit-logo.png'
+//import warpcast from '@/public/warpcast-logo.png'
+//import { creatorHouse2023Nfts, tokyo2024Nfts } from '@/utils/nfts'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -13,7 +13,7 @@ export default function Home() {
     <div className="flex flex-col items-center">
       <header className="flex justify-center">
         <div className="p-4">
-          <Image src="/IMG_1645.png" alt="Site Banner" width={800} height={300} className="object-cover mx-auto" />
+          <Image src="/PinkBanner.png" alt="Site Banner" width={800} height={300} className="object-cover mx-auto" />
         </div>
       </header>
       <main
@@ -31,8 +31,11 @@ export default function Home() {
             <p className="text-lg pb-1 font-semibold">How?</p>
             <p>
             * "OpenHDMI" artist meetups serve as creative salons for knowledge exchange<br />
+
             * Live performance showcases and projection-mapping installations<br />
+
             * Hands-on technical workshops centered on tools like Processing and TouchDesigner<br />
+
             * Collaborative sessions leading to large-scale exhibitions 
             </p>
           </div>
