@@ -32,8 +32,6 @@ export default function Home() {
             <p>
             * "OpenHDMI" artist meetups serve as creative salons for knowledge exchange<br />
 
-            * Live performance showcases and projection-mapping installations<br />
-
             * Hands-on technical workshops centered on tools like Processing and TouchDesigner<br />
 
             * Collaborative sessions leading to large-scale exhibitions 
